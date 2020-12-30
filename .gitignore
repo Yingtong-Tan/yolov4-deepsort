@@ -1,0 +1,6 @@
+*.MP4
+*.pyc
+*.avi
+/outputs
+/data
+/checkpoints
